@@ -1,6 +1,15 @@
 # data-science-test-case
 
 1. Ensure that Python, Flask, pandas, numpy ,numpy_financial (either manually, or run pip install -r requirements.txt).
+  if you want to don't install everything in your machine usie virtual machine 
+  
+## Note
+  
+| Windows:   | python -m venv py3Env  
+
+| Windows command prompt : | call py3Env\Scripts\activate
+
+ pip install -r requirements.txt
 
 2. Run app.py with python net_cash_flow.py
 
